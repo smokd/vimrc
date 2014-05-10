@@ -1,0 +1,3 @@
+[submodule ".\\sources_non_forked\\Jedi"]
+	path = .\\sources_non_forked\\Jedi
+	url = https://github.com/davidhalter/jedi-vim.git
