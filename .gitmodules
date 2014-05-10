@@ -7,3 +7,9 @@
 [submodule "sources_non_forked/ScrollColors"]
 	path = sources_non_forked/ScrollColors
 	url = https://github.com/Raimondi/delimitMate
+[submodule "sources_non_forked/vim-colorschemes"]
+	path = sources_non_forked/vim-colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
+[submodule "sources_non_forked/YCM"]
+	path = sources_non_forked/YCM
+	url = https://github.com/Valloric/YouCompleteMe.git
