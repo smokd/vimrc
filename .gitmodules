@@ -10,3 +10,6 @@
 [submodule ".\\sources_non_forked\\SingleCompile"]
 	path = .\\sources_non_forked\\SingleCompile	
 	url = https://github.com/xuhdev/SingleCompile
+[submodule "sources_non_forked\\Deliminate"]
+	path = sources_non_forked\\Deliminate
+	url = https://github.com/Raimondi/delimitMate.git
