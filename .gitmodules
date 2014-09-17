@@ -10,6 +10,3 @@
 [submodule "sources_non_forked/vim-colorschemes"]
 	path = sources_non_forked/vim-colorschemes
 	url = https://github.com/flazz/vim-colorschemes.git
-[submodule "sources_non_forked/YCM"]
-	path = sources_non_forked/YCM
-	url = https://github.com/Valloric/YouCompleteMe.git
