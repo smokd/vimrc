@@ -13,3 +13,6 @@
 [submodule "sources_non_forked/YCM"]
 	path = sources_non_forked/YCM
 	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "sources_non_forked/Syntastic"]
+	path = sources_non_forked/Syntastic
+	url = https://github.com/scrooloose/syntastic.git
